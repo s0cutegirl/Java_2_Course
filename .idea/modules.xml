@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Authorization/Authorization.iml" filepath="$PROJECT_DIR$/Authorization/Authorization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Equation/Equation.iml" filepath="$PROJECT_DIR$/Equation/Equation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HalfDivisionMethod/HalfDivisionMethod.iml" filepath="$PROJECT_DIR$/HalfDivisionMethod/HalfDivisionMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HeapSort/HeapSort.iml" filepath="$PROJECT_DIR$/HeapSort/HeapSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HtmlDeleteTagsAndEmptyLines/HtmlDeleteTagsAndEmptyLines.iml" filepath="$PROJECT_DIR$/HtmlDeleteTagsAndEmptyLines/HtmlDeleteTagsAndEmptyLines.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_2_Course_Repo.iml" filepath="$PROJECT_DIR$/.idea/Java_2_Course_Repo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LaboratoryWork141/LaboratoryWork141.iml" filepath="$PROJECT_DIR$/LaboratoryWork141/LaboratoryWork141.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LaboratoryWork15/LaboratoryWork15.iml" filepath="$PROJECT_DIR$/LaboratoryWork15/LaboratoryWork15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LaboratoryWork17/LaboratoryWork17.iml" filepath="$PROJECT_DIR$/LaboratoryWork17/LaboratoryWork17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons/Lessons.iml" filepath="$PROJECT_DIR$/Lessons/Lessons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListOfWordsSite/ListOfWordsSite.iml" filepath="$PROJECT_DIR$/ListOfWordsSite/ListOfWordsSite.iml" />
+    </modules>
+  </component>
+</project>
